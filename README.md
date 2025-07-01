@@ -3,6 +3,7 @@ Gerador para CRUD em Node.js. Trata-se de aplicação web em node.js para gerar 
 Gerador de CRUD - Node.js, Express, SQLite
 App com 2 tabelas relacionadas
 Solicite ajuda em programador1.com@gmail.com
+
 Vídeo no Youtube: https://youtu.be/S0i42QFjSbo
 
 a) PROCEDIMENTOS COM BANCO DE DADOS:
