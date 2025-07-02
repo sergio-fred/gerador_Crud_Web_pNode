@@ -1,4 +1,6 @@
 # gerador_Crud_Web_pNode
+Todo o projeto está no arquivo compactado que contém o aplicativo, pastas e arquivos. Basta descompactar numa pasta do disco e executar com o Node.js (node app).
+
 Gerador para CRUD em Node.js. Trata-se de aplicação web em node.js para gerar CRUD em node.js com 2 tabelas relacionadas.
 Gerador de CRUD - Node.js, Express, SQLite
 App com 2 tabelas relacionadas
